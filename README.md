@@ -1,5 +1,5 @@
 ### producer-consumer
-Midterm Project for Operating Systems
+Project #1 for Operating Systems
 
 ## Functions
 
